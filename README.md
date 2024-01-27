@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ayushjidhanta
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NodeJs
+- 📫 How to reach me ayushjidhanta@gmail.com
